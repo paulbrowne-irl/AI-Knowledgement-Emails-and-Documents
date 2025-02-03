@@ -1,5 +1,3 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paulbrowne-irl/AI-Knowledgement-Emails-and-Documents?quickstart=1)
-
 #  Automatic answer emails using pre-collected Business Knowledge (keeping Human-in-loop)
 
 Many organisations/individuals have piles of documents containing valuable information but are little used after their initial creation.
@@ -25,6 +23,10 @@ Other key features:
 1. **Ingest Key Business Information** - load information (e.g. pdf or email) into the KnowledgeBase (Elastic)
 1. **Answer Key Business Questions** - Friendly User Interface to answer questions in a back and forward way, focussing on 4 key business use cases e.g. automatically answering Outlook emails
 1. **Automatically Answer questions as part of a flow**. These Bots are Designed to be used as part of Power Automate or other automatic workflow.
+
+Try it out in Codespaces 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paulbrowne-irl/AI-Knowledgement-Emails-and-Documents?quickstart=1)
+
 
 ### Keeping confidential information confidential by default
 
